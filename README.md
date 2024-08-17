@@ -1,7 +1,9 @@
-# Hi, I'm Artem!
+### Hi, I'm Artem!
 
-I'm a Frontend Engineer from Russia.
+I'm a Frontend Engineer from Russia. 🪆
 
-I enjoy building fast, beautiful, and secure web applications.
+I enjoy building fast, secure, and beautiful web applications.
 
-Passionate about programming, with a love for JavaScript, Go, and functional programming.
+⚡ Passionate about programming, with a love for JavaScript, Go, and functional programming.
+
+Telegram: [`@sloukanada`](https://t.me/sloukanada)
