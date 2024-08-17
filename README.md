@@ -1,4 +1,4 @@
-### Hi, I'm Artem!
+## Hi, I'm Artem!
 
 I'm a Frontend Engineer from Russia. 🪆
 
